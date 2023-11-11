@@ -1,7 +1,7 @@
 # TallerC
 Integrantes:
-  *Natalia Gomez
+  *Juliana Rincon
   *Luisa Merchan
-  *Ingrith Rodriguez
+  *Leidy Penagos
 Plataforma utilizada Windows
 Editor utilizado CLION
